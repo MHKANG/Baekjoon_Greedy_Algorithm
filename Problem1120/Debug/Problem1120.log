@@ -1,0 +1,4 @@
+﻿  문자열.cpp
+c:\users\kmh\source\repos\baekjoon_greedy\problem1120\문자열.cpp(13): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kmh\source\repos\baekjoon_greedy\problem1120\문자열.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Problem1120.vcxproj -> C:\Users\KMH\source\repos\BaekJoon_Greedy\Debug\Problem1120.exe
